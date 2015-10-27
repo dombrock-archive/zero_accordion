@@ -11,6 +11,7 @@
   background:black;
   color:gainsboro;   
   transition:color 0.25s;
+  cursor:pointer;
 }
 .Zacc_title:hover{
   color:white;
