@@ -1,6 +1,8 @@
 # zero_accordion
 Easy to implement accordion that does not use jQueryUI.
 
+Check out the [DEMO](http://mzero.space/hosted/zero_accordion/).
+
 This is very similar to the jQueryUI 'Accordion' function.  If you are already using jQueryUI in your project then there is probably no need for this. However it is very easy to implement and troubleshoot, and the code should be fully understandable to anyone with an intermediate knowledge of  jQuery. 
 
 To get started you must make sure you are using jQuery on your page. You can do that like this:
