@@ -1,7 +1,7 @@
-.Xacc{
+.Zacc{
   font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
 }
-.Xacc_title{
+.Zacc_title{
   text-align:center;
   font-size:2em;
   -webkit-user-select: none; 
@@ -12,10 +12,10 @@
   color:gainsboro;   
   transition:color 0.25s;
 }
-.Xacc_title:hover{
+.Zacc_title:hover{
   color:white;
 }
-.Xacc_text{
+.Zacc_text{
   padding:1vw;
   overflow: hidden;
 }
