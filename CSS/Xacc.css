@@ -1,0 +1,21 @@
+.Xacc{
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
+}
+.Xacc_title{
+  text-align:center;
+  font-size:2em;
+  -webkit-user-select: none;  /* Chrome all / Safari all */
+  -moz-user-select: none;     /* Firefox all */
+  -ms-user-select: none;      /* IE 10+ */
+  user-select: none; 
+  background:black;
+  color:gainsboro;/* Likely future */     
+  transition:color 0.25s;
+}
+.Xacc_title:hover{
+  color:white;
+}
+.Xacc_text{
+  padding:1vw;
+  overflow: hidden;
+}
