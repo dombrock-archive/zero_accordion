@@ -1,5 +1,5 @@
 # zero_accordion
-Easy to implement accordion that does not use jQueryUI.
+Easy to implement accordion that does not use jQueryUI. This project is 100% compatible with WordPress without the use of additional plugins. 
 
 Check out the [DEMO](http://mzero.space/hosted/zero_accordion/).
 
