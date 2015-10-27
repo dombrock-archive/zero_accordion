@@ -4,12 +4,12 @@
 .Xacc_title{
   text-align:center;
   font-size:2em;
-  -webkit-user-select: none;  /* Chrome all / Safari all */
-  -moz-user-select: none;     /* Firefox all */
-  -ms-user-select: none;      /* IE 10+ */
+  -webkit-user-select: none; 
+  -moz-user-select: none;   
+  -ms-user-select: none;      
   user-select: none; 
   background:black;
-  color:gainsboro;/* Likely future */     
+  color:gainsboro;   
   transition:color 0.25s;
 }
 .Xacc_title:hover{
